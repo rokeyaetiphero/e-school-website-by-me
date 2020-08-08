@@ -1,0 +1,154 @@
+.logo img
+{
+    width: 37%;
+    height: auto;
+}
+
+
+.space-between ul li a
+{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    color: goldenrod;
+}
+
+.margin-a
+{
+    margin: auto 25px;  
+}
+
+.ilustration img
+{
+    width: 100%;
+    height: auto;
+}
+
+.container 
+{
+    margin-bottom:  20px;
+   
+}  
+
+.bg
+{
+    background-color: lightcyan;
+}
+
+.span-h5
+{
+    color: goldenrod;
+}
+
+.row
+{
+    padding: 100px 80px;
+}
+
+.container nav
+{
+    padding-top: 30px;
+}
+
+.card-img-top-1
+{
+    height: auto;
+    width:60px;
+    padding-top: 20px;
+}
+
+.card
+{
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 20px gainsboro;
+    padding: 10px 10px;
+}
+
+.card-footer
+{   
+    height: 35px;
+    width: auto;
+    border-style: none;
+    
+}
+
+.bg
+{
+    background-color: azure;
+}
+
+.bg-f
+{
+    background: none;
+}
+.card-text
+{
+    color: goldenrod;
+   
+}
+
+.card-heading-top
+{
+    margin-bottom: 60px;
+}
+
+.btn-style
+{
+    background-image: linear-gradient(indianred,purple);
+    border-style: none;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 60px;
+}
+
+.btn-style1
+{
+    background-image: linear-gradient(indianred,purple);
+    border-style: none;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+      
+}
+
+.card-footer img
+{
+    height: 22px;
+    width: 23px;
+}
+
+.test img
+{
+    height: 130px;
+    width: 130px;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+ 
+.col-8
+{
+    margin-top: 0;
+}
+
+.test h2
+{
+    padding-bottom: 40px;
+}
+
+.ft-2
+{
+    background: linear-gradient(gray,rebeccapurple);
+    border-radius: 5px;
+}
+
+.ending
+{
+    padding-bottom: 20px;
+}
